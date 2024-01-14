@@ -9,7 +9,7 @@ accounting is a library for money and currency formatting. (inspired by [account
 ## Quick Start
 
 ```
-go get github.com/leekchan/accounting
+go get github.com/elanlanguages/go-numberformats
 ```
 
 example.go
